@@ -33,8 +33,16 @@ Workflows integrate **marker-based annotation** and **SingleR reference-based an
    git clone https://github.com/Shawna-L/macrophage-scRNAseq-pipeline.git
    cd macrophage-scRNAseq-pipeline
 
+## Resources
 
-References
+Reference dissociation-associated gene (DAG) lists are provided for reproducibility:
+
+512_Human_Dissociation_genes.csv – Human DAG list (O’Flanagan et al., 2019)
+
+DAG_136_MouseGenes_From_van den Brink et al. 2017_SuppTable5.csv – Mouse DAG list (van den Brink et al., 2017)
+
+
+## References
 
 Ramachandran P, Dobie R, Wilson-Kanamori JR, Dora EF, Henderson BEP, Luu NT, et al. Resolving the fibrotic niche of human liver cirrhosis at single-cell level. Nature. 2019;575(7783):512–8. doi:10.1038/s41586-019-1631-3.
 
@@ -57,3 +65,7 @@ Aran D, Looney AP, Liu L, Wu E, Fong V, Hsu A, et al. Reference-based analysis o
 Aran D, Butte AJ. SingleR: annotation of single-cell RNA-seq data. [Internet]. South Wales Bioinformatics; 2023 [cited 2025 Sep 7]. Available from: https://swbioinf.github.io/scRNAseqInR_Doco/singler.html
 
 Heumos L, Schaar AC, Lance C, Ji Y, Tarashansky AJ, Zhang J, et al. Best practices for single-cell analysis across modalities. Nat Rev Genet. 2023;24(9):550–72. doi:10.1038/s41576-023-00586-w.
+
+van den Brink SC, Sage F, Vértesy Á, Spanjaard B, Peterson-Maduro J, Baron CS, et al. Single-cell sequencing reveals dissociation-induced gene expression in tissue subpopulations. Nat Methods. 2017;14(10):935–6. doi:10.1038/nmeth.4437.
+
+O’Flanagan CH, Campbell KR, Zhang AW, Kabeer F, Lim JLP, Biele J, et al. Dissociation of solid tumor tissues with cold active protease for single-cell RNA-seq minimizes conserved collagenase-associated stress responses. Genome Biol. 2019;20(1):210. doi:10.1186/s13059-019-1830-0.
