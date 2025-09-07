@@ -1,7 +1,5 @@
 # macrophage-scRNAseq-pipeline
 Analysis pipeline for macrophage heterogeneity in fibrotic versus healthy heart, liver and lung using scRNA-seq, combining SingleR reference libraries and marker-based workflows.
-# macrophage-scRNAseq-pipeline
-
 This repository provides analysis pipelines to study macrophage heterogeneity in **human** (heart, lung, liver) and **mouse** tissues under healthy and fibrotic conditions using single-cell RNA sequencing (scRNA-seq).  
 Workflows integrate **marker-based annotation** and **SingleR reference-based annotation**, ensuring reproducible identification of macrophage subsets across organs and species.
 
